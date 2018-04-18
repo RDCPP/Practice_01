@@ -1,2 +1,2 @@
-Name | ID \n
-김예준 | kyj0701
+| Name | ID |
+| 김예준 | kyj0701 |
