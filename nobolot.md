@@ -1,0 +1,7 @@
+1. FLOWER[2] : 931883
+2. ZEPHYRANTHES : 928981
+- total : 1860864
+3. Scars of FAUNA[2] : 946942
+- total : 2807806
+
+>clear!
